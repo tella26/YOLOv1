@@ -1,20 +1,108 @@
-/content/YOLOv1/data/img20.jpg 229,477,289,579,0 339,467,399,584,0 393,466,452,586,0
-/content/YOLOv1/data/img13.jpg 93,252,150,308,1 141,262,192,320,1 222,237,276,286,1 197,273,277,339,1 263,292,320,354,1 363,268,429,322,1 412,323,486,402,1 467,341,533,414,1
-/content/YOLOv1/data/img19.jpg 255,444,312,564,0 360,441,423,552,0 415,435,480,554,0
-content/YOLOv1/data/imge11.jpg 256,176,310,222,0 305,181,344,229,0 379,143,424,183,0 524,146,584,197,0 424,194,482,253,0 586,202,640,273,0 357,184,426,243,0
-/content/YOLOv1/data/img5.jpg 313,365,409,470,0
-/content/YOLOv1/data/img16.jpg 121,337,294,550,0
-/content/YOLOv1/data/img15.jpg 286,263,346,343,0 467,285,540,358,0 147,256,192,313,0 233,210,273,264,0 95,255,138,308,0 401,215,454,275,0 375,281,418,344,0 532,292,583,372,0
-/content/YOLOv1/data/img6.jpg 205,410,388,626,0
-/content/YOLOv1/data/img4.jpg 244,369,426,548,0
-/content/YOLOv1/data/img3.jpg 242,400,413,629,0
-/content/YOLOv1/data/img1.jpg 315,242,515,468,0
-/content/YOLOv1/data/img12.jpg 94,254,159,303,0 148,267,197,320,0 223,239,283,285,0 203,280,283,338,0 369,268,440,324,0 268,296,330,355,0 302,302,396,375,0 422,330,545,421,0
-/content/YOLOv1/data/img9.jpg 0,1,302,221,1
-/content/YOLOv1/data/img7.jpg 118,406,320,634,0
-/content/YOLOv1/data/img2.jpg 330,299,492,496,1
-/content/YOLOv1/data/img14.jpg 254,435,311,480,0 380,455,431,503,0 154,416,196,453,0 337,408,388,447,0 302,437,356,492,0 112,410,154,448,0 214,430,260,468,0 507,478,576,543,0
-/content/YOLOv1/data/img17.jpg 73,408,221,553,0
-/content/YOLOv1/data/img8.jpg 82,302,260,516,1
-content/YOLOv1/data/img18.jpg 453,506,576,620,0
-/content/YOLOv1/data/img10.jpg 210,158,602,554,1
+/content/YOLOv1/data/Drone_Solar_Sample2_mp4-67_jpg.rf.0a78b569c76fc9fab0571ce13c761b67.jpg
+/content/YOLOv1/data/20170818_114858_jpg.rf.1d0672c000461fd80b6c08b832da0cbe.jpg
+/content/YOLOv1/data/20170818_114855_jpg.rf.0b2666c6c3e440d524bd5f5922ae2184.jpg
+/content/YOLOv1/data/20170717_152052_jpg.rf.1d597368235d746603c5fe788224c031.jpg
+/content/YOLOv1/data/Drone_Solar_Sample2_mp4-58_jpg.rf.0dfe652f4670649d586deaba5dc70e55.jpg
+/content/YOLOv1/data/Drone_Solar_Sample1_mp4-119_jpg.rf.014e18b4def4f9682c57f2512d429c11.jpg
+/content/YOLOv1/data/Drone_Solar_Sample2_mp4-27_jpg.rf.11683807f60687ca67e0b5622f4adda7.jpg 
+/content/YOLOv1/data/20170818_114910_jpg.rf.1f254b6dea2cdf66c015d87a92019905.jpg
+/content/YOLOv1/data/thermal_3_PNG_jpg.rf.1e769bc7a2cb22df30f83ba0767b22c2.jpg
+/content/YOLOv1/data/Drone_Solar_Sample2_mp4-112_jpg.rf.0a58e2bda6cc95956d08b407f7bf04e1.jpg
+/content/YOLOv1/data/20170818_104626_jpg.rf.22c950c0befaca640649849a2a53142a.jpg
+/content/YOLOv1/data/DJI_0231_jpg.rf.0b379470e43e2dfd8b96dc4f1edd810b.jpg
+/content/YOLOv1/data/DJI_0307_jpg.rf.1ba1488f306cc49e7b28ac918a2f98fc.jpg 
+/content/YOLOv1/data/thermal_5_PNG_jpg.rf.0e51807fa157b39294788e6e88811ff6.jpg
+/content/YOLOv1/data/Drone_Solar_Sample1_mp4-117_jpg.rf.25e4179ce05555c5009a519470e0302c.jpg
+/content/YOLOv1/data/20170818_114908_jpg.rf.16761fde1ff9956b0156676648f5cd9a.jpg
+/content/YOLOv1/data/20170818_114849_jpg.rf.1c14745814a8f9bcc2f28acd3c129656.jpg
+/content/YOLOv1/data/20170818_114847_jpg.rf.2adc4a2abe1963055f02d4e8c8236404.jpg 
+/content/YOLOv1/data/thermal_9_PNG_jpg.rf.2a12051053b4010772bc37f50c51df1a.jpg
+/content/YOLOv1/data/20170717_150451_jpg.rf.2fc1e86f3267fb2bed379ba7c17d0284.jpg 
+/content/YOLOv1/data/20170818_114915_jpg.rf.2380c39d518a56d05690e9d6ddd1b7bc.jpg
+/content/YOLOv1/data/thermal_10_PNG_jpg.rf.1e58ada56a08fb99eb09c0ef6e2b96e0.jpg
+/content/YOLOv1/data/thermal_17_PNG_jpg.rf.38344b9c82aaff7469b6cfb83897a259.jpg 
+/content/YOLOv1/data/20170818_104732_jpg.rf.382f406413ed06a50f3b0c0a2ca95275.jpg 
+/content/YOLOv1/data/thermal_8_PNG_jpg.rf.3139677983a86972951826f9098bdf3f.jpg
+/content/YOLOv1/data/Drone_Solar_Sample2_mp4-102_jpg.rf.2ba82749b255470452191e0bffe19fee.jpg
+/content/YOLOv1/data/Drone_Solar_Sample1_mp4-130_jpg.rf.2d73d1c1d4233d8088bbfcda9f2d1c3f.jpg 
+/content/YOLOv1/data/Drone_Solar_Sample1_mp4-119_jpg.rf.3818a396adc7375fac2487df59b0853d.jpg
+/content/YOLOv1/data/20170717_152050_jpg.rf.358a853863da9703748ddbf86c43b567.jpg 
+/content/YOLOv1/data/Drone_Solar_Sample2_mp4-105_jpg.rf.2469f3976fa0270d76a8fe5ea159094c.jpg
+/content/YOLOv1/data/thermal_6_PNG_jpg.rf.3e8020216998f5281f9c7fcb9ebb0b78.jpg 
+/content/YOLOv1/data/Drone_Solar_Sample1_mp4-127_jpg.rf.2462c432c9a5665a41f9792fded853be.jpg
+/content/YOLOv1/data/20170717_150434_jpg.rf.47cf88a7795f6897c34c99aa54e539f8.jpg 
+/content/YOLOv1/data/DJI_0227_jpg.rf.49cf81495b9012c16bea503cfe92a2c7.jpg
+/content/YOLOv1/data/20170710_144807_jpg.rf.42a707b1311c00d3ca89d923da2b5838.jpg
+/content/YOLOv1/data/20170818_104637_jpg.rf.39e582d152529425abdc429a33acdcce.jpg 
+/content/YOLOv1/data/Drone_Solar_Sample2_mp4-64_jpg.rf.404d831c1d8746b56335e0c572178788.jpg 
+/content/YOLOv1/data/20170818_114912_jpg.rf.55d0a1ae7c060117fd263ae4a6218409.jpg 
+/content/YOLOv1/data/DJI_0311_jpg.rf.574f7407257c73701733690a9b88d34b.jpg
+/content/YOLOv1/data/DJI_0267_jpg.rf.55c32756978f97b26350326782cd90d9.jpg 
+/content/YOLOv1/data/DJI_0317_jpg.rf.756e23855dd3ee23d84abd35cb7223b4.jpg 
+/content/YOLOv1/data/Drone_Solar_Sample1_mp4-127_jpg.rf.60f7a70a9ddcf29533f406aa72db5e64.jpg 
+/content/YOLOv1/data/thermal_18_PNG_jpg.rf.42c2f1c1894a7e951d2ecfef00ab78c7.jpg 
+/content/YOLOv1/data/20170717_150813_jpg.rf.77db5a717306d094a66283026a4257c1.jpg
+/content/YOLOv1/data/20170717_152120_jpg.rf.1129b5d070a81f384581de218ac01916.jpg
+/content/YOLOv1/data/20170717_150756_jpg.rf.17c44d1d13b953822435c3507bed3fef.jpg
+/content/YOLOv1/data/Drone_Solar_Sample2_mp4-21_jpg.rf.3a9cef1fcde5f73eddf4f6e318b0d9c6.jpg 
+/content/YOLOv1/data/Drone_Solar_Sample2_mp4-27_jpg.rf.70e682b0941333102d52e5c0b3adba2e.jpg 
+/content/YOLOv1/data/20170710_144851_jpg.rf.5a0f83a83ddfcae33cd83317838b6a94.jpg 
+/content/YOLOv1/data/20170818_114907_jpg.rf.5b23affa9cf0ab05371c15ad81f318e0.jpg 
+/content/YOLOv1/data/thermal_2_PNG_jpg.rf.60d6e2a49d778a61a1a9637d09c8f54f.jpg
+/content/YOLOv1/data/20170818_114914_jpg.rf.5b256f7b8f52a1f9e458232ff1fb043c.jpg 
+/content/YOLOv1/data/Drone_Solar_Sample2_mp4-22_jpg.rf.640ee108e089aef2e9098f34fe3761a3.jpg 
+/content/YOLOv1/data/DJI_0321_jpg.rf.87a49a024d4b6c88deea8b9a6d3d1778.jpg
+/content/YOLOv1/data/20170710_144632_jpg.rf.50108ed2f6cc78d6542f6809359ee301.jpg
+/content/YOLOv1/data/thermal_4_PNG_jpg.rf.8ce2d460f80a7e2111a1b5461b83155c.jpg
+/content/YOLOv1/data/DJI_0225_jpg.rf.7bdd513774c1e3e7043e64b35ff65c43.jpg
+/content/YOLOv1/data/20170818_114851_jpg.rf.5e81358bc55b3158a5162fd4a5056819.jpg
+/content/YOLOv1/data/DJI_0225_jpg.rf.6559e6ced51372f8eb357edaf04aa70a.jpg
+/content/YOLOv1/data/20170710_144611_jpg.rf.a7b9ed291c0cf016a88df76d61f048d1.jpg
+/content/YOLOv1/data/Drone_Solar_Sample1_mp4-130_jpg.rf.7fed24860745f289b68de5f636a825b3.jpg
+/content/YOLOv1/data/Drone_Solar_Sample2_mp4-32_jpg.rf.4388b8bddf6c56fd3e9979f4346b6bd7.jpg
+/content/YOLOv1/data/20170710_144050_jpg.rf.5a0813981bca0727475081df0ee16f13.jpg 
+/content/YOLOv1/data/20170717_150449_jpg.rf.99ccb751e0a2aba30e3dc87a75dce476.jpg
+/content/YOLOv1/data/Drone_Solar_Sample1_mp4-137_jpg.rf.798da0e1a00c4ef79bb95538330c7697.jpg
+/content/YOLOv1/data/Drone_Solar_Sample1_mp4-135_jpg.rf.7b696fae4f31c40db6598c84d8a6ad50.jpg 
+/content/YOLOv1/data/20170818_104630_jpg.rf.b3afe24773172b14e057cc8e4e75ea37.jpg 
+/content/YOLOv1/data/thermal_15_PNG_jpg.rf.ac57c418bd8464dda8122ea22a8223fc.jpg 
+/content/YOLOv1/data/DJI_0311_jpg.rf.9f62e3802eb1cb9f8d8bd2f539b1c94e.jpg 
+/content/YOLOv1/data/thermal_11_PNG_jpg.rf.bb7f351bb70e30e1fe10b6ee97030353.jpg 
+/content/YOLOv1/data/20170710_145124_jpg.rf.c520c95165cb91132c632a6accbeeb51.jpg 
+/content/YOLOv1/data/DJI_0265_jpg.rf.b89e484c1b7652a3cf47ef5481fd900c.jpg 
+/content/YOLOv1/data/Drone_Solar_Sample1_mp4-114_jpg.rf.af80c088c65670808de1e14874b0a5c3.jpg 
+/content/YOLOv1/data/DJI_0321_jpg.rf.af8fe914d15a68fe58de1434be8d5f24.jpg
+/content/YOLOv1/data/Drone_Solar_Sample2_mp4-23_jpg.rf.cc257c014733245eb842f7cd58ae2ced.jpg 
+/content/YOLOv1/data/20170710_144902_jpg.rf.98a0e2659af338ab3db8b5eca2e48d41.jpg 
+/content/YOLOv1/data/20170710_144103_jpg.rf.d1878c6228b424beaba998bdb2599393.jpg 
+/content/YOLOv1/data/Drone_Solar_Sample2_mp4-102_jpg.rf.dee7b8fea210cca77011ee5119c7ee7a.jpg 
+/content/YOLOv1/data/Drone_Solar_Sample1_mp4-136_jpg.rf.bd94349d9c47a1d7567d21c565afd8d1.jpg 
+/content/YOLOv1/data/DJI_0313_jpg.rf.9280dc0cef41353823654f5f5ae704a6.jpg 
+/content/YOLOv1/data/20170717_150748_jpg.rf.c38f1c9210da8370ab63c0fb41804c8a.jpg 
+/content/YOLOv1/data/20170818_104722_jpg.rf.d0eba6f542f039fa022a116953f76e9d.jpg 
+/content/YOLOv1/data/Drone_Solar_Sample2_mp4-92_jpg.rf.c9338d0866530bc86591f00cc93e48d8.jpg
+/content/YOLOv1/data/DJI_0313_jpg.rf.e9f51fc3b6a4ee41357389c7bd7dd7f7.jpg 
+/content/YOLOv1/data/DJI_0269_jpg.rf.c2e703ee713888db6e4095dc09574c29.jpg
+/content/YOLOv1/data/DJI_0263_jpg.rf.d1d9ea97a0dcd4b6625eb490022cf1ea.jpg 
+/content/YOLOv1/data/20170717_150818_jpg.rf.b54ed2cb0c6fedcc12daba5019adced2.jpg 
+/content/YOLOv1/data/Drone_Solar_Sample2_mp4-95_jpg.rf.d6d270de02c395ef2de40ca81a82d438.jpg 
+/content/YOLOv1/data/DJI_0223_jpg.rf.b4f9133a6430072cdec8f02dea40b9eb.jpg 
+/content/YOLOv1/data/DJI_0229_jpg.rf.c117881dd1bbcea1a944f73d793e05a1.jpg 
+/content/YOLOv1/data/20170710_145114_jpg.rf.eb6301a090b9b3f3857ecdadcb46a7fd.jpg 
+/content/YOLOv1/data/thermal_14_PNG_jpg.rf.dba88c79c67bbe85541c9fdb7b23dfdb.jpg 
+/content/YOLOv1/data/Drone_Solar_Sample2_mp4-101_jpg.rf.e5c210948c8971d1c61bdb7912a57b59.jpg 
+/content/YOLOv1/data/thermal_13_PNG_jpg.rf.eab5b3025decafdb6a9b1f3c0f52a943.jpg 
+/content/YOLOv1/data/thermal_7_PNG_jpg.rf.f9c892c6498f3b84c80217a537d5bbee.jpg 
+/content/YOLOv1/data/thermal_12_PNG_jpg.rf.d43288db427a8c62dcea61138006cc7c.jpg 
+/content/YOLOv1/data/DJI_0307_jpg.rf.e0917e8f26c69b224c7b8fe7ac0947e7.jpg 
+/content/YOLOv1/data/DJI_0229_jpg.rf.f2ccd870dab950c086f24b2abea0382f.jpg 
+/content/YOLOv1/data/Drone_Solar_Sample1_mp4-136_jpg.rf.eae86d9d75f784ccaa456e990864f801.jpg
+/content/YOLOv1/data/Drone_Solar_Sample2_mp4-21_jpg.rf.efac3c017d3f1730170c45c1a77bd1f2.jpg 
+/content/YOLOv1/data/Drone_Solar_Sample2_mp4-112_jpg.rf.eafbf569eabac7be821e54921e509df3.jpg
+/content/YOLOv1/data/Drone_Solar_Sample1_mp4-124_jpg.rf.fa5c3dbf852c32b9b4bea0fbf51be744.jpg 
+/content/YOLOv1/data/20170717_151847_jpg.rf.ebad85f5f3dbc1d12e3117fc302841d2.jpg
+/content/YOLOv1/data/20170710_145155_jpg.rf.f63cc73358e8453bc22d5d590e6e46be.jpg 
+/content/YOLOv1/data/Drone_Solar_Sample2_mp4-90_jpg.rf.eb9b02b7dffe5f01ed173efbde851c8f.jpg 
+/content/YOLOv1/data/thermal_16_PNG_jpg.rf.fc03bd856c6b66238c311ceb0966d3c2.jpg 
+/content/YOLOv1/data/thermal_1_PNG_jpg.rf.f5c1ed69da1871e861aea78a7f666fd2.jpg 
+/content/YOLOv1/data/Drone_Solar_Sample2_mp4-101_jpg.rf.ffcf32a3ef69fe35503af8353a0a410d.jpg 
